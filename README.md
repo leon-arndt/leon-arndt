@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Leon Arndt
 
-Hi, I'm Leon ✌️, a Full-Stack Game Deveveloper and Tech Enthusiast. Aside from that, I like to cook and play guitar. Most of my work includes C#, C++, or JavaScript or a combination.
+Hi, I'm Leon, a full-stack game developer and tech enthusiast. Aside from that, I like to cook and play guitar. Most of my work includes C#, C++, or JavaScript or a combination.
 
 
 Skillset:
