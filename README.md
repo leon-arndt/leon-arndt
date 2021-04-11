@@ -6,6 +6,7 @@ Hi, I'm Leon, a full-stack game developer and tech enthusiast. Aside from that, 
 Skillset:
 
 ![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity)
+![C Sharp](https://img.shields.io/badge/-C_Sharp-05122A?style=flat&logo=csharp)
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
